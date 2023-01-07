@@ -1,0 +1,11 @@
+html, body{
+background-image: url(https://img.freepik.com/premium-vector/painted-background-multicoloured-palette_23-2148427592.jpg?w=2000);
+margin: 0%;
+padding: 2px;
+}
+.first{
+    background-position-x: center;
+    margin: 1%;
+    padding: 0 85px;
+ 
+}
